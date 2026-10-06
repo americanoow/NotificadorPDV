@@ -1,0 +1,2 @@
+Main-Class: notificador.App
+Class-Path: lib/mysql-connector-java-5.1.49.jar
